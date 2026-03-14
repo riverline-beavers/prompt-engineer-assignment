@@ -3,7 +3,6 @@
 **Role:** Prompt Engineering Intern @ [Riverline](https://riverline.ai)
 **Time:** 8 hours
 **Tools:** Any LLM, any language (Python preferred)
-**API budget:** $5 max
 
 ---
 
